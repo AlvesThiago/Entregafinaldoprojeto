@@ -4,6 +4,11 @@
 
 <h1>Sobre o APP</h1>
 <p>Intregrantes e Cursos</p>
+<p>Thiago Alves RA: 5974310 
+<p>Paulo Gabriel Marques da Cunha de Souza RA: 7316759</p>
+<p>Eduardo Almeida Viana RA: 6671156 </p>
+<p>Renan Isikawa Pinto da Silva RA: 6219868 </p>
+<p>Gabriel de Paula Jesus RA: 3272100</p></p>
 
 ![Creditos](https://user-images.githubusercontent.com/77080899/206942149-360a881d-bc25-4b5d-9b76-68f1362c4fe4.png)
 
